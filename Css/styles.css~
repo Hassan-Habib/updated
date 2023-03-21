@@ -1,0 +1,23 @@
+/*Web page parts*/
+.top{background-color: #E3FDFD; display: block; margin: 0 auto  }
+.middle{background-color: #CBF1F5; padding-top: 60px; padding-bottom: 60px; margin: 0 auto}
+.bottom{padding-bottom: 60px; padding-top: 60px; background-color: #CBF1F5; margin: 0 auto}
+.intouch{padding-bottom: 60px; padding-top: 60px; background-color: #71C9CE; margin: 0 auto}
+.divs{padding-top: 30px; padding-bottom: 30px}
+
+/*Fonts*/
+body{margin:0; text-align: center;font-family: 'Merriweather', serif;}
+h1{margin-block-start: 0; width: 200px; margin: 0 auto 0 auto; font-family: 'Sacramento', cursive;}
+h2{font-family: 'Montserrat', sans-serif}
+h3{font-family: 'Montserrat', sans-serif}
+
+/*img manipulation*/
+.rounded{border-radius: 50%; margin: 0 auto; width: 14%; height: 25%}
+.left{position: relative; display:block ; margin: 0 auto; right: 200px ; margin: 0 auto; width: 14%; height: 25%}
+.right{position: relative; left: 200px; margin: 0 auto; margin: 0 auto; right: 200px ; margin: 0 auto; width: 14%; height: 25%}
+.mountain{ margin: 0 auto; margin: 0 auto; right: 200px ; margin: 0 auto; width: 40%; height: 40%}
+.python{margin: 0 auto; width: 16%; height: 25%}
+
+/*.red{ background-color: red; width: 200px; height: 200px;top: 200px; left: 200px; }*/
+/*.blue{background-color: blue; height: 200px; width: 200px;top: 400px; left: 400px;}*/
+/*.pro{text-decoration: underline;}*/
